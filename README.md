@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **CARE**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **kirti1332000@gmail.com**
 
